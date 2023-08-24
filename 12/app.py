@@ -2,6 +2,6 @@
 user_input = input("Please a positive number: ")
 number = int(user_input)
 
-# Display numbers between 1 and number
+# Display numbers from number to 1
 for i in range(number, 0, -1):
     print(i, end=" ")
