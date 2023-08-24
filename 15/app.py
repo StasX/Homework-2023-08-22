@@ -1,6 +1,3 @@
-# Print message to user
-print("Enter two numbers (First should be smaller).")
-
 # Get first number from user
 first_input = input("Please enter first number: ")
 first = int(first_input)
